@@ -10,7 +10,7 @@ body {
     border-radius: 50%;
 }
 
-#welcome {
+#bio {
     position: absolute;
     overflow: hidden;
     height: 800px;
@@ -44,12 +44,6 @@ h2 {
     font-weight: 300;
     line-height: 1.2;
     font-family: monospace
-}
-
-#bio {
-    padding: 50px;
-    text-align: center;
-    font-size: 42px;
 }
 
 .line {
